@@ -73,9 +73,9 @@ body{
 }
 
 .child{
-    width: 15%;
+    width: 17%;
     border: solid black 1px;
-    height: 481px;
+    height: 490px;
     margin: 10px;
     border-radius: 0 0 30px 30px;
     background-image: url(img/background2);
@@ -93,7 +93,7 @@ body{
     justify-content: center;
     border-top: solid black 2px;
     border-bottom: solid black 2px;
-    padding: 10px;
+    padding: 11px;
     text-align: center;
     height: 30px;
 }
